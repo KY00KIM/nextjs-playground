@@ -1,3 +1,5 @@
+import './globals.css';
+
 export const metadata = {
   title: 'Nextjs-Playground',
   description: 'Playground for my Next.js app',
